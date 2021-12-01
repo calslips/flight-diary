@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/calslips/flight-diary/issues"
   },
-  "homepage": "https://github.com/calslips/flight-diary#readme"
+  "homepage": "https://github.com/calslips/flight-diary#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }
