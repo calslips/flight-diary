@@ -1,4 +1,4 @@
-import diaryData from '../../data/diaries.json';
+import diaries from '../../data/diaries';
 
 import { DiaryEntry } from '../types';
 
